@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "jls",
+      "database": "${workspaceFolder:backend}/db/db.sqlite"
+    }
+  ]
+}
